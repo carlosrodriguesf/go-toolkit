@@ -3,7 +3,7 @@ package groupederror_test
 import (
 	"encoding/json"
 	"errors"
-	"github.com/carlosrodriguesf/go-toolkit/groupederror"
+	"github.com/carlosrodriguesf/go-toolkit/pkg/groupederror"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

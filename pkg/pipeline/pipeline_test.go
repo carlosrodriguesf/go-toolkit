@@ -3,7 +3,7 @@ package pipeline_test
 import (
 	"context"
 	"errors"
-	"github.com/carlosrodriguesf/go-toolkit/pipeline"
+	"github.com/carlosrodriguesf/go-toolkit/pkg/pipeline"
 	"github.com/stretchr/testify/require"
 	"testing"
 )
